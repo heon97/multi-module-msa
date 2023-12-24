@@ -1,0 +1,4 @@
+rootProject.name = 'multi_module_msa'
+include 'api'
+include 'core'
+
